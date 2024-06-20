@@ -1,2 +1,3 @@
-# ITE-IS-Semestr-2
-Semestr 2, studia inżynierskie: Programowanie obiektowe
+# ITE Semestr 2, studia inżynierskie
+
+- [Programowanie obiektowe](https://github.com/Ite-2022-pwr/Programowanie-obiektowe)
